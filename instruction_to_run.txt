@@ -1,0 +1,4 @@
+1. Open this folder in code editor like VS-Code
+2. Copy the path of .csv file and paste it where we are reading the csv (read_csv function)
+3. Run all the cells.
+*Note : plot of salesQuantity vs day and salesDollars vs day will take time to load.
